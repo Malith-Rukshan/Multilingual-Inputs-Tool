@@ -23,7 +23,7 @@
 </div>
 
 ##
-![Inputs Tool Web Preview](https://github.com/Malith-Rukshan/Multilingual-Inputs-Tool/assets/85282650/61ea9e9c-c25e-4159-99dd-850e465ed17c)
+![Inputs Tool Web Preview](https://raw.githubusercontent.com/Malith-Rukshan/Multilingual-Inputs-Tool/main/Web-Screenshot.png)
 
 
 ## 🚀 Features
@@ -40,7 +40,7 @@
 <br>
 
 ## 🍀 Usage Preview
-![Inputs Tool Web Preview](https://github.com/Malith-Rukshan/Multilingual-Inputs-Tool/assets/85282650/abb666dd-36f9-4a0a-bc29-8db422dbe5e7)
+![Inputs Tool Web Preview](https://raw.githubusercontent.com/Malith-Rukshan/Multilingual-Inputs-Tool/main/Inputs-Usage.gif)
 
 <br>
 
