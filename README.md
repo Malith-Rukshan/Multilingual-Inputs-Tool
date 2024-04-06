@@ -4,10 +4,10 @@
 <h1 align="center">🌐 Multilingual Inputs Tool ✍️</h1>
 <div align='center'>
 <a href='https://inputs.sdev.lk'>
-<img src='https://img.shields.io/badge/Demo-Inputs%20Tool-1cd760?logo=cloudflare&style=flat-square'>
+<img src='https://img.shields.io/badge/Demo-Inputs%20Tool-1cd760?logo=cloudflare&style=flat'>
 </a>
 <a href='https://t.me/InputsBot'>
-<img src='https://img.shields.io/badge/Telegram-@InputsBot-blue?logo=telegram&style=flat-square'> 
+<img src='https://img.shields.io/badge/Telegram-@InputsBot-blue?logo=telegram&style=flat'> 
 </a>
 </div>
 <h4 align="center">✨ Redesign of Google Input Tool with Telegram Mini-App. Let's start typing smarter, not harder! 🚀</h4>
@@ -42,6 +42,7 @@
 ## 🍀 Usage Preview
 ![Inputs Tool Web Preview](https://raw.githubusercontent.com/Malith-Rukshan/Multilingual-Inputs-Tool/main/Inputs-Usage.gif)
 
+🙋‍♂️ Help & Tutorial : [How-to-use-Inputs-Bot](https://telegra.ph/How-to-use-Inputs-Bot-03-17)
 <br>
 
 ## 🎯 Credits and Other
